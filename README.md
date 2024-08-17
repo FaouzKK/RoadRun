@@ -1,6 +1,6 @@
 # ROAD RUN
 ## Description
-ÉROd tun est un jeu mobile captivant où votre mission principale est de rester le plus longtemps possible sur la piste.
+ROAD RUN est un jeu mobile où votre mission principale est de rester le plus longtemps possible sur la piste.
 
 
 ## Installation
